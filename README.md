@@ -1,1 +1,1 @@
-# nheqminer
+# Zergpool
